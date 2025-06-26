@@ -18,4 +18,8 @@ https://liquidllabs.com
 | [Pictory](https://pictory.ai/) ![favicon](https://www.google.com/s2/favicons?domain=pictory.ai/) | Create engaging videos in minutes using the power of AI. |
 | [Suno](https://suno.com/home) ![favicon](https://www.google.com/s2/favicons?domain=suno.com/home) | Start with a simple prompt or dive into our pro editing tools, your next track is just a step away. |
 | [CopyAI](https://www.copy.ai/) ![favicon](https://www.google.com/s2/favicons?domain=copy.ai/) | Infuse AI across your go-to-market engine with a single platform — not dozens of copilots and point solutions. Codify best practices, unify data, connect teams, and eliminate GTM bloat. Power all key GTM use cases and realize the full value of AI. |
+| [ElevenLabs](https://elevenlabs.io/) ![favicon](https://www.google.com/s2/favicons?domain=elevenlabs.io/) | AI voice models and products powering millions of developers, creators, and enterprises. From low‑latency conversational agents to the leading AI voice generator for voiceovers and audiobooks. |
+| [Replit](https://replit.com/) ![favicon](https://www.google.com/s2/favicons?domain=replit.com/) | Turn your ideas into apps. |
+| [Replit](https://durable.co/) ![favicon](https://www.google.com/s2/favicons?domain=durable.co/) | Get your business online in 30 seconds with the #1 AI website builder and marketing platform. |
+
 
