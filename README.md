@@ -12,4 +12,5 @@ https://liquidllabs.com
 | ![favicon](https://www.google.com/s2/favicons?domain=krisp.ai) [Krisp](https://krisp.ai) | Smarter meetings with transcripts, summaries, and action items — bot-free recording, noise cancellation, and natural accents. |
 | ![favicon](https://www.google.com/s2/favicons?domain=synthesia.io/) [Synthesia](https://www.synthesia.io/) | Create studio-quality videos with AI avatars and voiceovers in 140+ languages. It’s as easy as making a slide deck. |
 | ![favicon](https://www.google.com/s2/favicons?domain=runwayml.com/) [Runway ML](https://runwayml.com/) | Runway is a global AI research and technology company building foundational AI research models and tools to create multimodal simulators of the world. |
+| ![favicon](https://www.google.com/s2/favicons?domain=jasper.ai/) [Jasper](https://www.jasper.ai/) | Jasper is the AI platform that unifies the brand experience, accelerates content velocity, and automates marketing processes—at scale. |
 
