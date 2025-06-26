@@ -5,7 +5,7 @@ Useful AI Tools list
 
 https://liquidllabs.com
 
-| Tool Name | Description |
+| Name | Description |
 |---------|-------------|
 | [Elicit](https://elicit.com) | Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings. |
 | [LiftKit](https://getliftkit.com) | LiftKit turns ChatGPT into your CMO, copywriter, and growth team—identifying your customers, crafting your offer, and generating every conversion-ready asset so your product finally sells. |
