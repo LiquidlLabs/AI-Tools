@@ -1,5 +1,6 @@
 # AI-Tools
-Useful AI Tools list | Productivity | Automation | LLMs | Chatbots | Generators
+Useful AI Tools list
+| Productivity | Automation | LLMs | Chatbots | Generators |
 
 | Website | Description |
 |---------|-------------|
