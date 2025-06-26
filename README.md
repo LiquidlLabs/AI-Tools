@@ -3,7 +3,7 @@ Useful AI Tools list
 
 | Productivity | Automation | LLMs | Chatbots | Generators |
 
-https://liquidllabs.com/
+https://liquidllabs.com
 
 | Website | Description |
 |---------|-------------|
