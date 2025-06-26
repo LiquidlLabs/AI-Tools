@@ -17,3 +17,5 @@ https://liquidllabs.com
 | [LiftKit](https://getliftkit.com) | LiftKit turns ChatGPT into your CMO, copywriter, and growth team—identifying your customers, crafting your offer, and generating every conversion-ready asset so your product finally sells. |
 | [Pictory](https://pictory.ai/) ![favicon](https://www.google.com/s2/favicons?domain=pictory.ai/) | Create engaging videos in minutes using the power of AI. |
 | [Suno](https://suno.com/home) ![favicon](https://www.google.com/s2/favicons?domain=suno.com/home) | Start with a simple prompt or dive into our pro editing tools, your next track is just a step away. |
+| [CopyAI](https://www.copy.ai/) ![favicon](https://www.google.com/s2/favicons?domain=copy.ai/) | Infuse AI across your go-to-market engine with a single platform — not dozens of copilots and point solutions. Codify best practices, unify data, connect teams, and eliminate GTM bloat. Power all key GTM use cases and realize the full value of AI. |
+
