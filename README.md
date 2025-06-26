@@ -13,4 +13,5 @@ https://liquidllabs.com
 | ![favicon](https://www.google.com/s2/favicons?domain=synthesia.io/) [Synthesia](https://www.synthesia.io/) | Create studio-quality videos with AI avatars and voiceovers in 140+ languages. It’s as easy as making a slide deck. |
 | ![favicon](https://www.google.com/s2/favicons?domain=runwayml.com/) [Runway ML](https://runwayml.com/) | Runway is a global AI research and technology company building foundational AI research models and tools to create multimodal simulators of the world. |
 | ![favicon](https://www.google.com/s2/favicons?domain=jasper.ai/) [Jasper](https://www.jasper.ai/) | Jasper is the AI platform that unifies the brand experience, accelerates content velocity, and automates marketing processes—at scale. |
+| ![favicon](https://www.google.com/s2/favicons?domain=descript.com/) [Descript](https://www.descript.com/) | Direct your AI co-editor to turn your vision into video, or do it yourself with intuitive editing tools. With Descript, making video is as easy as typing. |
 
