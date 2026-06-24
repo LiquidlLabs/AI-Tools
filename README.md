@@ -7,6 +7,7 @@ https://liquidllabs.com
 
 | Name | Description |
 |---------|-------------|
+| [Remio](https://remio.ai) ![favicon](https://www.google.com/s2/favicons?domain=remio.ai) | Local-first AI memory and personal knowledge base that parses files, webpages, recordings, emails, messages, images, and notes into local indexes for faster personal-context retrieval. |
 | [Krisp](https://krisp.ai) ![favicon](https://www.google.com/s2/favicons?domain=krisp.ai) | Smarter meetings with transcripts, summaries, and action items — bot-free recording, noise cancellation, and natural accents. |
 | [Synthesia](https://www.synthesia.io/) ![favicon](https://www.google.com/s2/favicons?domain=synthesia.io/) | Create studio-quality videos with AI avatars and voiceovers in 140+ languages. It’s as easy as making a slide deck. |
 | [RunwayML](https://runwayml.com/) ![favicon](https://www.google.com/s2/favicons?domain=runwayml.com/) | Runway is a global AI research and technology company building foundational AI research models and tools to create multimodal simulators of the world. |
@@ -21,5 +22,4 @@ https://liquidllabs.com
 | [ElevenLabs](https://elevenlabs.io/) ![favicon](https://www.google.com/s2/favicons?domain=elevenlabs.io/) | AI voice models and products powering millions of developers, creators, and enterprises. From low‑latency conversational agents to the leading AI voice generator for voiceovers and audiobooks. |
 | [Replit](https://replit.com/) ![favicon](https://www.google.com/s2/favicons?domain=replit.com/) | Turn your ideas into apps. |
 | [Durable](https://durable.co/) ![favicon](https://www.google.com/s2/favicons?domain=durable.co/) | Get your business online in 30 seconds with the #1 AI website builder and marketing platform. |
-
 
